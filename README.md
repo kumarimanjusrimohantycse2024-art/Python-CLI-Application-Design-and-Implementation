@@ -3,7 +3,7 @@
 A clean, modular, and production-style **command-line To-Do application** built in Python.  
 Designed to demonstrate **strong fundamentals**: OOP, modular architecture, robust I/O, input validation, and clear documentation.
 
-🚀 **Try it now:**
+🙌**Try it now:**
 ```bash
 git clone <your-repo-url>
 cd todo_cli
@@ -67,7 +67,7 @@ todo_cli/
 
 ---
 
-## 🚀 Quick Start
+## 🌠 Quick Start
 
 ### Prerequisites
 - Python 3.8 or higher
